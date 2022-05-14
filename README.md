@@ -13,6 +13,7 @@ I'm Physics undergraduate student at University of Guanajuato 🐝, Junior Devel
 
 - 🌞 I’m currently working on Verano de Ciencia UG
 - 🤖 I’m currently learning ML 
+- 👨🏽‍💻 I'm Interested in Data Science
 - ⚡ I love video games 
 - 📫 Here's my emai: isccds800@gmail.com 
 
