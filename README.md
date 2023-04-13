@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 I'm Physics undergraduate student at University of Guanajuato 🐝, Junior Developer
 
-- 🌞 I’m currently working on NPL and Medical image processing
+- 🌞 I’m currently working on NLP and Medical image processing
 - 🤖 I’m currently learning ML 
 - 👨🏽‍💻 I'm Interested in Data Science
 - ⚡ I love video games 
