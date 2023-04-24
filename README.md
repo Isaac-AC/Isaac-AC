@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-I'm Physics undergraduate student at University of Guanajuato 🐝, Junior Developer
+
+I'm Physics undergraduate student at University of Guanajuato 🐝, Junior Data Scientist
 
 - 🌞 I’m currently working on NLP and Medical image processing
-- 🤖 I’m currently learning ML 
-- 👨🏽‍💻 I'm Interested in Data Science
-- ⚡ I love video games 
-- 📫 Here's my emai: isccds800@gmail.com 
-
+- 🤖 I’m also GOLF member (Grupo Organizado de Licenciatura Física) 
+- 👨🏽‍💻 I'm Interested parallel computing and optimization
+- ⚡ I love to solve problems
+- "
 
