@@ -16,5 +16,5 @@ I'm Physics undergraduate student at University of Guanajuato 🐝, Junior Data 
 - 🤖 I’m also GOLF member (Grupo Organizado de Licenciatura Física) 
 - 👨🏽‍💻 I'm Interested parallel computing and optimization
 - ⚡ I love to solve problems
-- "
+ "
 
