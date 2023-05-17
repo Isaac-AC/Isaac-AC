@@ -52,7 +52,7 @@ I have experience working with the following technologies and programming langua
 - Bash
 - Git
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-AC&theme=tokyonight)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Isaac-AC&theme=algolia&show_icons=true)](https://github.com/Isaac-AC)
 
