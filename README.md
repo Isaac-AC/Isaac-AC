@@ -1,23 +1,8 @@
 
 
-<!--
-**Isaac-AC/Isaac-AC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 😄 Pronouns: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 
 
-I'm Physics undergraduate student at University of Guanajuato 🐝, Junior Data Scientist
 
-- 🌞 I’m currently working on NLP and Medical image processing
-- 🤖 I’m also GOLF member (Grupo Organizado de Licenciatura Física) 
-- 👨🏽‍💻 I'm Interested parallel computing and optimization
-- ⚡ I love to solve problems
- "
--->
 
 # Welcome to my profile!, I'm Isaac :) 👋  
 
@@ -39,6 +24,7 @@ I love pizza, videogames, and my passion is tech. I'm always excited to explore 
 
 I am deeply fascinated by the potential of deep learning and statistical models in solving real-world problems. My passion lies in exploring and developing innovative solutions and applications in these areas. Additionally, I have a strong affinity for mathematics and thoroughly enjoy solving complex problems.
 
+<!--
 ## Technologies and Skills 👨‍💻
 
 I have experience working with the following technologies and programming languages:
@@ -69,3 +55,4 @@ Feel free to reach out to me through the following channels:
 
 
 ---
+-->
