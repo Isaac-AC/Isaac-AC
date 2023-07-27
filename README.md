@@ -4,7 +4,7 @@ I love pizza, videogames, and my passion is tech. I'm always excited to explore 
 
 ## Education 🐝
 
-- **University of Guanajuato** - Pursuing a Bachelor's degree in Physics (2019 - Present)
+- **University of Guanajuato** - Bachelor's degree in Physics (2019 - 2023)
 
 ## Interests 🧠
 
